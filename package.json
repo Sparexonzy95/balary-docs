@@ -46,5 +46,6 @@
   "engines": {
     "node": ">=20.0"
   },
-  "description": "Balary confidential payroll and private-credit documentation"
+  "description": "Balary confidential payroll computation documentation powered by Flare Confidential Compute"
 }
+
