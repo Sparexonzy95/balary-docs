@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/overview",
+  "title": "API Overview",
+  "description": "The Django API is namespaced under:",
+  "source": "@site/docs/api-reference/overview.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/overview",
+  "permalink": "/docs/api-reference/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "API Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "TEE Lifecycle",
+    "permalink": "/docs/fcc-integration/tee-lifecycle"
+  },
+  "next": {
+    "title": "Auth and Institutions",
+    "permalink": "/docs/api-reference/auth-and-institutions"
+  }
+}

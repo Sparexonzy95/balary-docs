@@ -1,0 +1,213 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api-reference/auth-and-institutions",
+              "path": "/docs/api-reference/auth-and-institutions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/operations",
+              "path": "/docs/api-reference/operations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/overview",
+              "path": "/docs/api-reference/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/payrolls",
+              "path": "/docs/api-reference/payrolls",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api-reference/withdrawals",
+              "path": "/docs/api-reference/withdrawals",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/backend",
+              "path": "/docs/architecture/backend",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/confidential-engine",
+              "path": "/docs/architecture/confidential-engine",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/contracts",
+              "path": "/docs/architecture/contracts",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/frontend",
+              "path": "/docs/architecture/frontend",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/lifecycle-controller",
+              "path": "/docs/architecture/lifecycle-controller",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/docs/architecture/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/backend-fcc",
+              "path": "/docs/deployment/backend-fcc",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/coston2",
+              "path": "/docs/deployment/coston2",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/frontend",
+              "path": "/docs/deployment/frontend",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employee/overview",
+              "path": "/docs/employee/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employee/private-withdrawals",
+              "path": "/docs/employee/private-withdrawals",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employer/confidential-compute",
+              "path": "/docs/employer/confidential-compute",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employer/create-payroll",
+              "path": "/docs/employer/create-payroll",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employer/fund-and-activate",
+              "path": "/docs/employer/fund-and-activate",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employer/overview",
+              "path": "/docs/employer/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "employer/schedules-and-audit",
+              "path": "/docs/employer/schedules-and-audit",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "fcc-integration/instruction-flow",
+              "path": "/docs/fcc-integration/instruction-flow",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "fcc-integration/overview",
+              "path": "/docs/fcc-integration/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "fcc-integration/tee-lifecycle",
+              "path": "/docs/fcc-integration/tee-lifecycle",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-overview/user-journeys",
+              "path": "/docs/product-overview/user-journeys",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-overview/what-is-balary",
+              "path": "/docs/product-overview/what-is-balary",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-overview/why-confidential-payroll",
+              "path": "/docs/product-overview/why-confidential-payroll",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/permissions",
+              "path": "/docs/security/permissions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/privacy-model",
+              "path": "/docs/security/privacy-model",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/threat-model",
+              "path": "/docs/security/threat-model",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "troubleshooting/blockchain",
+              "path": "/docs/troubleshooting/blockchain",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "troubleshooting/common-errors",
+              "path": "/docs/troubleshooting/common-errors",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "troubleshooting/fcc-tee",
+              "path": "/docs/troubleshooting/fcc-tee",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "verification/deployed-contracts",
+              "path": "/docs/verification/deployed-contracts",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "verification/test-evidence",
+              "path": "/docs/verification/test-evidence",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

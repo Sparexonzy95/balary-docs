@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/withdrawals",
+  "title": "Withdrawals",
+  "description": "Core private-payroll withdrawals",
+  "source": "@site/docs/api-reference/withdrawals.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/withdrawals",
+  "permalink": "/docs/api-reference/withdrawals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Withdrawals",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Payrolls",
+    "permalink": "/docs/api-reference/payrolls"
+  },
+  "next": {
+    "title": "Operations API",
+    "permalink": "/docs/api-reference/operations"
+  }
+}

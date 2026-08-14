@@ -1,0 +1,27 @@
+{
+  "id": "security/privacy-model",
+  "title": "Privacy Model",
+  "description": "Balary's privacy model protects payroll computation and private authorization state, not every visible blockchain artifact.",
+  "source": "@site/docs/security/privacy-model.md",
+  "sourceDirName": "security",
+  "slug": "/security/privacy-model",
+  "permalink": "/docs/security/privacy-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Privacy Model",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Lifecycle Controller",
+    "permalink": "/docs/architecture/lifecycle-controller"
+  },
+  "next": {
+    "title": "Threat Model",
+    "permalink": "/docs/security/threat-model"
+  }
+}

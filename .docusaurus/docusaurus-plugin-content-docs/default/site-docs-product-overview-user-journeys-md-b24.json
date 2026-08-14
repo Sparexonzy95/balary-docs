@@ -1,0 +1,27 @@
+{
+  "id": "product-overview/user-journeys",
+  "title": "User Journeys",
+  "description": "Balary separates institution administration, HR preparation, Finance funding and employee settlement.",
+  "source": "@site/docs/product-overview/user-journeys.md",
+  "sourceDirName": "product-overview",
+  "slug": "/product-overview/user-journeys",
+  "permalink": "/docs/product-overview/user-journeys",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "User Journeys",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Why Confidential Payroll?",
+    "permalink": "/docs/product-overview/why-confidential-payroll"
+  },
+  "next": {
+    "title": "Employer Overview",
+    "permalink": "/docs/employer/overview"
+  }
+}

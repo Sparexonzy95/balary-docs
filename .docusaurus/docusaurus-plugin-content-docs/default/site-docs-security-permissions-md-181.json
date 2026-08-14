@@ -1,0 +1,27 @@
+{
+  "id": "security/permissions",
+  "title": "Permissions",
+  "description": "Balary combines off-chain role checks with on-chain contract roles.",
+  "source": "@site/docs/security/permissions.md",
+  "sourceDirName": "security",
+  "slug": "/security/permissions",
+  "permalink": "/docs/security/permissions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Permissions",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Threat Model",
+    "permalink": "/docs/security/threat-model"
+  },
+  "next": {
+    "title": "Coston2",
+    "permalink": "/docs/deployment/coston2"
+  }
+}

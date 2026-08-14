@@ -1,0 +1,27 @@
+{
+  "id": "architecture/backend",
+  "title": "Backend",
+  "description": "The backend is Django REST Framework with Celery-based asynchronous operations.",
+  "source": "@site/docs/architecture/backend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/backend",
+  "permalink": "/docs/architecture/backend",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Backend",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Frontend",
+    "permalink": "/docs/architecture/frontend"
+  },
+  "next": {
+    "title": "Confidential Engine",
+    "permalink": "/docs/architecture/confidential-engine"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "verification/test-evidence",
+  "title": "Test Evidence",
+  "description": "The V2 source snapshot records a broad validation pass across the stack.",
+  "source": "@site/docs/verification/test-evidence.md",
+  "sourceDirName": "verification",
+  "slug": "/verification/test-evidence",
+  "permalink": "/docs/verification/test-evidence",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Test Evidence",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Deployed Contracts",
+    "permalink": "/docs/verification/deployed-contracts"
+  },
+  "next": {
+    "title": "Common Errors",
+    "permalink": "/docs/troubleshooting/common-errors"
+  }
+}

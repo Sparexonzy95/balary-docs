@@ -1,0 +1,27 @@
+{
+  "id": "getting-started",
+  "title": "Getting Started",
+  "description": "This guide gets a developer oriented around the current Balary stack. The app is a multi-service system, so start by understanding the boundaries before running individual components.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/docs/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Getting Started",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "What is Balary?",
+    "permalink": "/docs/product-overview/what-is-balary"
+  }
+}

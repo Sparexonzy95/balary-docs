@@ -1,0 +1,27 @@
+{
+  "id": "fcc-integration/tee-lifecycle",
+  "title": "TEE Lifecycle",
+  "description": "TEE lifecycle management is part of Balary's security boundary, not just deployment plumbing.",
+  "source": "@site/docs/fcc-integration/tee-lifecycle.md",
+  "sourceDirName": "fcc-integration",
+  "slug": "/fcc-integration/tee-lifecycle",
+  "permalink": "/docs/fcc-integration/tee-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "TEE Lifecycle",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Instruction Flow",
+    "permalink": "/docs/fcc-integration/instruction-flow"
+  },
+  "next": {
+    "title": "API Overview",
+    "permalink": "/docs/api-reference/overview"
+  }
+}

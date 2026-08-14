@@ -1,0 +1,27 @@
+{
+  "id": "architecture/contracts",
+  "title": "Contracts",
+  "description": "The current Balary application uses the confidential payroll contract pair:",
+  "source": "@site/docs/architecture/contracts.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/contracts",
+  "permalink": "/docs/architecture/contracts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Contracts",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Confidential Engine",
+    "permalink": "/docs/architecture/confidential-engine"
+  },
+  "next": {
+    "title": "Lifecycle Controller",
+    "permalink": "/docs/architecture/lifecycle-controller"
+  }
+}

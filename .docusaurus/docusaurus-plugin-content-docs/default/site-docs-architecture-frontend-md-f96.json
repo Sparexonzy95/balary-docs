@@ -1,0 +1,27 @@
+{
+  "id": "architecture/frontend",
+  "title": "Frontend",
+  "description": "The Balary frontend is a React + TypeScript + Vite application using Viem for wallet interaction.",
+  "source": "@site/docs/architecture/frontend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/frontend",
+  "permalink": "/docs/architecture/frontend",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Frontend",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  },
+  "next": {
+    "title": "Backend",
+    "permalink": "/docs/architecture/backend"
+  }
+}

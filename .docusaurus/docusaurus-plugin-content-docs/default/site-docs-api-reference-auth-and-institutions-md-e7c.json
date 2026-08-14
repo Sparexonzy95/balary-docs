@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/auth-and-institutions",
+  "title": "Auth and Institutions",
+  "description": "Request login nonce",
+  "source": "@site/docs/api-reference/auth-and-institutions.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/auth-and-institutions",
+  "permalink": "/docs/api-reference/auth-and-institutions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Auth and Institutions",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "API Overview",
+    "permalink": "/docs/api-reference/overview"
+  },
+  "next": {
+    "title": "Payrolls",
+    "permalink": "/docs/api-reference/payrolls"
+  }
+}

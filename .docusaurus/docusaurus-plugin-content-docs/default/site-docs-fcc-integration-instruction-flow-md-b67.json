@@ -1,0 +1,27 @@
+{
+  "id": "fcc-integration/instruction-flow",
+  "title": "Instruction Flow",
+  "description": "The confidential compute path is intentionally multi-stage so that a browser transaction alone cannot manufacture a trusted payroll result.",
+  "source": "@site/docs/fcc-integration/instruction-flow.md",
+  "sourceDirName": "fcc-integration",
+  "slug": "/fcc-integration/instruction-flow",
+  "permalink": "/docs/fcc-integration/instruction-flow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Instruction Flow",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "FCC Overview",
+    "permalink": "/docs/fcc-integration/overview"
+  },
+  "next": {
+    "title": "TEE Lifecycle",
+    "permalink": "/docs/fcc-integration/tee-lifecycle"
+  }
+}

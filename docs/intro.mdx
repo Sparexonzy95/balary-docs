@@ -1,0 +1,77 @@
+---
+title: Introduction
+sidebar_position: 1
+---
+
+# Balary Documentation
+
+**Balary is a confidential payroll computation application powered by Flare Confidential Compute.**
+
+It demonstrates how sensitive business logic can run privately inside a Trusted Execution Environment while verified results are connected back to on-chain settlement workflows on Flare Coston2.
+
+The live application is available at **[balary.lol](https://balary.lol)**.
+
+<div className="b-card-grid">
+  <a className="b-card" href="/docs/employer/overview">
+    <span>Employer</span>
+    <strong>Prepare confidential payroll</strong>
+    <p>Register an institution, manage HR and Finance roles, encrypt payroll inputs, request confidential computation, fund and activate.</p>
+  </a>
+  <a className="b-card" href="/docs/employee/overview">
+    <span>Employee</span>
+    <strong>Claim privately authorized payroll</strong>
+    <p>Authenticate with a wallet, discover eligible payrolls, sign the server-authorized digest and follow settlement.</p>
+  </a>
+  <a className="b-card" href="/docs/fcc-integration/overview">
+    <span>Builder</span>
+    <strong>Understand the FCC path</strong>
+    <p>Trace encrypted instruction creation, TEE execution, signed ActionResult verification, lifecycle reconciliation and on-chain finalization.</p>
+  </a>
+</div>
+
+## What Balary is built on
+
+| Layer | Current implementation |
+|---|---|
+| Network | Flare Testnet Coston2, chain ID `114` |
+| Frontend | React, TypeScript, Vite, Viem |
+| Backend | Django REST Framework, Celery, Redis |
+| Confidential compute | Flare Confidential Compute / Flare Compute Extension |
+| Confidential engine | Go TEE application with encrypted persistent state |
+| Contracts | Private payroll vault + confidential gateway |
+| Settlement asset | USD₮0 on Coston2, 6 decimals |
+| Authentication | Wallet nonce + signed message + JWT session |
+
+## Current deployment
+
+```text
+Vault:      0xBBDDd3fFa53385c4149A0513F1E06FF36BC85020
+Gateway:    0xf69CaAF395af6A7DeCB0ac2f86430E6c889A8216
+Extension:  66209
+TEE:        0x144C0FFbF98C5029E94DA4F75F27f325d2BA1BB0
+Signer:     0x144C0FFbF98C5029E94DA4F75F27f325d2BA1BB0
+Epoch:      2
+USD₮0:      0xC1A5B41512496B80903D1f32d6dEa3a73212E71F
+FCC proxy:  https://payroll-fcc.balary.lol
+```
+
+## End-to-end confidential payroll flow
+
+1. An institution is created and registered on-chain.
+2. Admins assign active HR and Finance wallets.
+3. HR creates employee records and a payroll run.
+4. The payroll CSV is validated and encrypted for the selected TEE.
+5. The wallet submits the exact backend-prepared draft and FCC computation transactions.
+6. The TEE processes sensitive payroll data privately and returns a signed `ActionResult`.
+7. Balary verifies the selected TEE, ActionResult signer, signer epoch and request binding before finalization.
+8. Finance opens funding, approves the exact remaining USD₮0 amount and funds the payroll.
+9. Employees request a server-authorized withdrawal and sign only the authorization digest.
+10. FCC authorizes the private transition and the vault settles on Coston2.
+
+## Why Confidential Compute
+
+A normal smart contract would make payroll logic and state much more observable. Balary keeps sensitive payroll computation inside the TEE while using contracts for verifiable coordination, funding, replay protection and settlement.
+
+:::info Current hackathon architecture
+The active Balary application uses the confidential payroll vault/gateway lane. Earlier confidential-credit reserve/ledger experiments are intentionally excluded from the current deployment and judge-facing architecture.
+:::

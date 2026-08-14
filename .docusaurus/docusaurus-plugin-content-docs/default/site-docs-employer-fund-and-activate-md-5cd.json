@@ -1,0 +1,27 @@
+{
+  "id": "employer/fund-and-activate",
+  "title": "Fund and Activate",
+  "description": "Funding is intentionally separated from confidential computation.",
+  "source": "@site/docs/employer/fund-and-activate.md",
+  "sourceDirName": "employer",
+  "slug": "/employer/fund-and-activate",
+  "permalink": "/docs/employer/fund-and-activate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Fund and Activate",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Request Confidential Computation",
+    "permalink": "/docs/employer/confidential-compute"
+  },
+  "next": {
+    "title": "Schedules and Audit",
+    "permalink": "/docs/employer/schedules-and-audit"
+  }
+}

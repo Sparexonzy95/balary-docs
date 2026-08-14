@@ -1,0 +1,27 @@
+{
+  "id": "employer/overview",
+  "title": "Employer Overview",
+  "description": "Employer operations are split between Admin, HR and Finance rather than giving one wallet every capability.",
+  "source": "@site/docs/employer/overview.md",
+  "sourceDirName": "employer",
+  "slug": "/employer/overview",
+  "permalink": "/docs/employer/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Employer Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Journeys",
+    "permalink": "/docs/product-overview/user-journeys"
+  },
+  "next": {
+    "title": "Create a Payroll",
+    "permalink": "/docs/employer/create-payroll"
+  }
+}

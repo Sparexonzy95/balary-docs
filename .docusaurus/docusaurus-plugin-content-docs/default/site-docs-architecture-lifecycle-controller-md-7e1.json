@@ -1,0 +1,27 @@
+{
+  "id": "architecture/lifecycle-controller",
+  "title": "Lifecycle Controller",
+  "description": "Balary's V2 lifecycle controller exists because confidential-compute identity is operational state that can change across TEE restarts.",
+  "source": "@site/docs/architecture/lifecycle-controller.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/lifecycle-controller",
+  "permalink": "/docs/architecture/lifecycle-controller",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Lifecycle Controller",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Contracts",
+    "permalink": "/docs/architecture/contracts"
+  },
+  "next": {
+    "title": "Privacy Model",
+    "permalink": "/docs/security/privacy-model"
+  }
+}

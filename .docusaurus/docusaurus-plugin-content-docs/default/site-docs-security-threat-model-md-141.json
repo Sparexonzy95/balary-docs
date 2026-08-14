@@ -1,0 +1,27 @@
+{
+  "id": "security/threat-model",
+  "title": "Threat Model",
+  "description": "| Threat | Control |",
+  "source": "@site/docs/security/threat-model.md",
+  "sourceDirName": "security",
+  "slug": "/security/threat-model",
+  "permalink": "/docs/security/threat-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Threat Model",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Privacy Model",
+    "permalink": "/docs/security/privacy-model"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/docs/security/permissions"
+  }
+}

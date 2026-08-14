@@ -1,0 +1,27 @@
+{
+  "id": "architecture/confidential-engine",
+  "title": "Confidential Engine",
+  "description": "The confidential engine is the private execution layer that allows Balary to move sensitive computation away from public execution while preserving verifiable blockchain coordination.",
+  "source": "@site/docs/architecture/confidential-engine.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/confidential-engine",
+  "permalink": "/docs/architecture/confidential-engine",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Confidential Engine",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Backend",
+    "permalink": "/docs/architecture/backend"
+  },
+  "next": {
+    "title": "Contracts",
+    "permalink": "/docs/architecture/contracts"
+  }
+}

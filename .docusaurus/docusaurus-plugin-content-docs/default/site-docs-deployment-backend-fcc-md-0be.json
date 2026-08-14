@@ -1,0 +1,27 @@
+{
+  "id": "deployment/backend-fcc",
+  "title": "Backend and FCC",
+  "description": "The live Balary stack places Django, Celery, Redis, the FCC proxy, simulated hackathon TEE and lifecycle controller behind server-controlled configuration.",
+  "source": "@site/docs/deployment/backend-fcc.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/backend-fcc",
+  "permalink": "/docs/deployment/backend-fcc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Backend and FCC",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Coston2",
+    "permalink": "/docs/deployment/coston2"
+  },
+  "next": {
+    "title": "Frontend",
+    "permalink": "/docs/deployment/frontend"
+  }
+}

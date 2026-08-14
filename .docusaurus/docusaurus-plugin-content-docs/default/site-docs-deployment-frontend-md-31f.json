@@ -1,0 +1,27 @@
+{
+  "id": "deployment/frontend",
+  "title": "Frontend",
+  "description": "The frontend is a Vite application and is deployed on Vercel for the current Balary project.",
+  "source": "@site/docs/deployment/frontend.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/frontend",
+  "permalink": "/docs/deployment/frontend",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Frontend",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Backend and FCC",
+    "permalink": "/docs/deployment/backend-fcc"
+  },
+  "next": {
+    "title": "Deployed Contracts",
+    "permalink": "/docs/verification/deployed-contracts"
+  }
+}

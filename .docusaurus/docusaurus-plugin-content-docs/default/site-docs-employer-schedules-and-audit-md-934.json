@@ -1,0 +1,27 @@
+{
+  "id": "employer/schedules-and-audit",
+  "title": "Schedules and Audit",
+  "description": "Balary's operational backend includes recurring schedule shells, notifications and audit reports in addition to the on-chain payroll lifecycle.",
+  "source": "@site/docs/employer/schedules-and-audit.md",
+  "sourceDirName": "employer",
+  "slug": "/employer/schedules-and-audit",
+  "permalink": "/docs/employer/schedules-and-audit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Schedules and Audit",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Fund and Activate",
+    "permalink": "/docs/employer/fund-and-activate"
+  },
+  "next": {
+    "title": "Employee Overview",
+    "permalink": "/docs/employee/overview"
+  }
+}

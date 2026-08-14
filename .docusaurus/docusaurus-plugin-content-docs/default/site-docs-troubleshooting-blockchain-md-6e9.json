@@ -1,0 +1,23 @@
+{
+  "id": "troubleshooting/blockchain",
+  "title": "Blockchain and Funding",
+  "description": "Insufficient C2FLR",
+  "source": "@site/docs/troubleshooting/blockchain.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/blockchain",
+  "permalink": "/docs/troubleshooting/blockchain",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Blockchain and Funding",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "FCC and TEE",
+    "permalink": "/docs/troubleshooting/fcc-tee"
+  }
+}

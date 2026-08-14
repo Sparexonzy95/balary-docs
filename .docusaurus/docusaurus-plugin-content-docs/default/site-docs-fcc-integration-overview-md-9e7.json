@@ -1,0 +1,27 @@
+{
+  "id": "fcc-integration/overview",
+  "title": "FCC Overview",
+  "description": "Balary is designed around the core Confidential Compute principle: private execution with public verification.",
+  "source": "@site/docs/fcc-integration/overview.md",
+  "sourceDirName": "fcc-integration",
+  "slug": "/fcc-integration/overview",
+  "permalink": "/docs/fcc-integration/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "FCC Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Private Withdrawals",
+    "permalink": "/docs/employee/private-withdrawals"
+  },
+  "next": {
+    "title": "Instruction Flow",
+    "permalink": "/docs/fcc-integration/instruction-flow"
+  }
+}

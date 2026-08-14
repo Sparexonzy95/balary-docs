@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/fcc-tee",
+  "title": "FCC and TEE",
+  "description": "Wrong extension ID",
+  "source": "@site/docs/troubleshooting/fcc-tee.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/fcc-tee",
+  "permalink": "/docs/troubleshooting/fcc-tee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "FCC and TEE",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Common Errors",
+    "permalink": "/docs/troubleshooting/common-errors"
+  },
+  "next": {
+    "title": "Blockchain and Funding",
+    "permalink": "/docs/troubleshooting/blockchain"
+  }
+}

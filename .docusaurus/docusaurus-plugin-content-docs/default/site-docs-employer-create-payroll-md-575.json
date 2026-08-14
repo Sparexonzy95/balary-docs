@@ -1,0 +1,27 @@
+{
+  "id": "employer/create-payroll",
+  "title": "Create a Payroll",
+  "description": "HR creates a payroll run in Django before any payroll-specific transaction is signed.",
+  "source": "@site/docs/employer/create-payroll.md",
+  "sourceDirName": "employer",
+  "slug": "/employer/create-payroll",
+  "permalink": "/docs/employer/create-payroll",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Create a Payroll",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Employer Overview",
+    "permalink": "/docs/employer/overview"
+  },
+  "next": {
+    "title": "Request Confidential Computation",
+    "permalink": "/docs/employer/confidential-compute"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "employee/overview",
+  "title": "Employee Overview",
+  "description": "An employee uses the wallet stored on their employee record to authenticate and access only the payroll/claim data permitted for that identity.",
+  "source": "@site/docs/employee/overview.md",
+  "sourceDirName": "employee",
+  "slug": "/employee/overview",
+  "permalink": "/docs/employee/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Employee Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Schedules and Audit",
+    "permalink": "/docs/employer/schedules-and-audit"
+  },
+  "next": {
+    "title": "Private Withdrawals",
+    "permalink": "/docs/employee/private-withdrawals"
+  }
+}

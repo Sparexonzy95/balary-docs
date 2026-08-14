@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/payrolls",
+  "title": "Payrolls",
+  "description": "Collection",
+  "source": "@site/docs/api-reference/payrolls.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/payrolls",
+  "permalink": "/docs/api-reference/payrolls",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Payrolls",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Auth and Institutions",
+    "permalink": "/docs/api-reference/auth-and-institutions"
+  },
+  "next": {
+    "title": "Withdrawals",
+    "permalink": "/docs/api-reference/withdrawals"
+  }
+}

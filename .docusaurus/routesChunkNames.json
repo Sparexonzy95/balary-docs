@@ -1,0 +1,177 @@
+{
+  "/markdown-page-53a": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "4c678320"
+  },
+  "/docs-1db": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-2d3": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-1ac": {
+    "__comp": "a94703ab"
+  },
+  "/docs/api-reference/auth-and-institutions-dfa": {
+    "__comp": "17896441",
+    "content": "e7cb637d"
+  },
+  "/docs/api-reference/operations-df0": {
+    "__comp": "17896441",
+    "content": "93604ce3"
+  },
+  "/docs/api-reference/overview-9bb": {
+    "__comp": "17896441",
+    "content": "ce830d1c"
+  },
+  "/docs/api-reference/payrolls-ab0": {
+    "__comp": "17896441",
+    "content": "5ef805b8"
+  },
+  "/docs/api-reference/withdrawals-2c5": {
+    "__comp": "17896441",
+    "content": "c0a5e50e"
+  },
+  "/docs/architecture/backend-3a4": {
+    "__comp": "17896441",
+    "content": "9dd2f382"
+  },
+  "/docs/architecture/confidential-engine-a67": {
+    "__comp": "17896441",
+    "content": "a760f113"
+  },
+  "/docs/architecture/contracts-e8a": {
+    "__comp": "17896441",
+    "content": "3e094c1e"
+  },
+  "/docs/architecture/frontend-0a2": {
+    "__comp": "17896441",
+    "content": "f964e206"
+  },
+  "/docs/architecture/lifecycle-controller-785": {
+    "__comp": "17896441",
+    "content": "7e11e5af"
+  },
+  "/docs/architecture/overview-8f4": {
+    "__comp": "17896441",
+    "content": "0b1ac180"
+  },
+  "/docs/deployment/backend-fcc-34f": {
+    "__comp": "17896441",
+    "content": "0be1b83a"
+  },
+  "/docs/deployment/coston2-793": {
+    "__comp": "17896441",
+    "content": "86efc221"
+  },
+  "/docs/deployment/frontend-87d": {
+    "__comp": "17896441",
+    "content": "31fdc0d5"
+  },
+  "/docs/employee/overview-8b7": {
+    "__comp": "17896441",
+    "content": "bfd8b9c5"
+  },
+  "/docs/employee/private-withdrawals-fbd": {
+    "__comp": "17896441",
+    "content": "dad599ac"
+  },
+  "/docs/employer/confidential-compute-945": {
+    "__comp": "17896441",
+    "content": "3186eb47"
+  },
+  "/docs/employer/create-payroll-807": {
+    "__comp": "17896441",
+    "content": "575dec72"
+  },
+  "/docs/employer/fund-and-activate-e01": {
+    "__comp": "17896441",
+    "content": "5cd1a50a"
+  },
+  "/docs/employer/overview-c2a": {
+    "__comp": "17896441",
+    "content": "e1f3a389"
+  },
+  "/docs/employer/schedules-and-audit-a58": {
+    "__comp": "17896441",
+    "content": "934f36fc"
+  },
+  "/docs/fcc-integration/instruction-flow-098": {
+    "__comp": "17896441",
+    "content": "b67202fd"
+  },
+  "/docs/fcc-integration/overview-4b4": {
+    "__comp": "17896441",
+    "content": "9e78ed20"
+  },
+  "/docs/fcc-integration/tee-lifecycle-b79": {
+    "__comp": "17896441",
+    "content": "0ba13c53"
+  },
+  "/docs/getting-started-3fb": {
+    "__comp": "17896441",
+    "content": "d589d3a7"
+  },
+  "/docs/intro-69a": {
+    "__comp": "17896441",
+    "content": "f8409a7e"
+  },
+  "/docs/product-overview/user-journeys-e62": {
+    "__comp": "17896441",
+    "content": "b2416730"
+  },
+  "/docs/product-overview/what-is-balary-0d9": {
+    "__comp": "17896441",
+    "content": "c3ddc73b"
+  },
+  "/docs/product-overview/why-confidential-payroll-131": {
+    "__comp": "17896441",
+    "content": "c8d213e6"
+  },
+  "/docs/security/permissions-2c2": {
+    "__comp": "17896441",
+    "content": "181afc43"
+  },
+  "/docs/security/privacy-model-23e": {
+    "__comp": "17896441",
+    "content": "627fa763"
+  },
+  "/docs/security/threat-model-628": {
+    "__comp": "17896441",
+    "content": "14107157"
+  },
+  "/docs/troubleshooting/blockchain-b69": {
+    "__comp": "17896441",
+    "content": "6e9e1158"
+  },
+  "/docs/troubleshooting/common-errors-f18": {
+    "__comp": "17896441",
+    "content": "49b9fcae"
+  },
+  "/docs/troubleshooting/fcc-tee-234": {
+    "__comp": "17896441",
+    "content": "63d7fbdd"
+  },
+  "/docs/verification/deployed-contracts-850": {
+    "__comp": "17896441",
+    "content": "f1e9b4c5"
+  },
+  "/docs/verification/test-evidence-2d6": {
+    "__comp": "17896441",
+    "content": "1d1c04b1"
+  },
+  "/-e5f": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

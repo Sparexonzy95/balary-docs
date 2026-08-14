@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/operations",
+  "title": "Operations API",
+  "description": "Transactions",
+  "source": "@site/docs/api-reference/operations.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/operations",
+  "permalink": "/docs/api-reference/operations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Operations API",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Withdrawals",
+    "permalink": "/docs/api-reference/withdrawals"
+  },
+  "next": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  }
+}
